@@ -5,7 +5,7 @@ Resources:
     EKSCluster:
         Type: AWS::EKS::Cluster
         Properties:
-            Name: diego-eks-cluster
+            Name: ronald-eks-cluster
             Version: "1.25"
             RoleArn: "arn:aws:iam::388328004932:role/aws-eks-cluster-role"
             ResourcesVpcConfig:
