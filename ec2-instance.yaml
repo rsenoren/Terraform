@@ -6,7 +6,7 @@ Resources:
 
         Properties:
 
-            Name: dgod-cluster
+            Name: diego-cluster
 
             Version: "1.25"
 
